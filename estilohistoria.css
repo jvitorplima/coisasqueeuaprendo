@@ -1,0 +1,54 @@
+body {
+    background-image: url(../img/fundoteste2.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-color: blueviolet;
+    
+}
+
+#cx1 {
+    width: 1082px;
+    height: 1050px;
+    margin: auto;
+    position: relative;
+}
+#logo{
+    width: 100%;
+    height: 300%;
+    margin-left: 550px;
+    
+}
+#menu{
+    width: 100%;
+    background-color: rgb(135, 12, 139);
+    height: 40px;
+    display: flex;
+    place-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
+
+
+#banner{
+    width: 100%;
+    height: 180px;
+       background-color: #000;
+       display: grid;
+       place-items: center;
+       margin-left: 0%;
+      
+}
+
+#historia{
+    width: 100%;
+    height: 0%;
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: 240px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    background-image: url(../img/10679357.jpg);
+}
